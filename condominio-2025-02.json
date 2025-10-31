@@ -1,0 +1,193 @@
+{
+  "mes": 1,
+  "ano": 2025,
+  "pagamentosNaoCorrespondentes": [
+    {
+      "descricao": "04 3/25",
+      "valor": 290
+    },
+    {
+      "descricao": "301 3/25",
+      "valor": 290
+    },
+    {
+      "descricao": "304 1/25",
+      "valor": 297.93
+    }
+  ],
+  "apartamentos": [
+    {
+      "numero": "AP-01",
+      "andar": 0,
+      "valor": 295,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-02",
+      "andar": 0,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-03",
+      "andar": 0,
+      "valor": 296.38,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-04",
+      "andar": 0,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-101",
+      "andar": 1,
+      "valor": 0,
+      "situacao": "Isento"
+    },
+    {
+      "numero": "AP-102",
+      "andar": 1,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-103",
+      "andar": 1,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-104",
+      "andar": 1,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-201",
+      "andar": 2,
+      "valor": 296.48,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-202",
+      "andar": 2,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-203",
+      "andar": 2,
+      "valor": 295.9,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-204",
+      "andar": 2,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-301",
+      "andar": 3,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-302",
+      "andar": 3,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-303",
+      "andar": 3,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-304",
+      "andar": 3,
+      "valor": 0,
+      "situacao": "Pago Posteriormente"
+    }
+  ],
+  "despesas": [
+    {
+      "descricao": "CAPACHO + CONECTOR",
+      "valor": 103.8
+    },
+    {
+      "descricao": "SERVIÇO DE ELETRICA",
+      "valor": 250
+    },
+    {
+      "descricao": "MATERIAL DE LIMPEZA SISTERNA",
+      "valor": 19.98
+    },
+    {
+      "descricao": "INTEGRALIZAÇÃO CAPITAL",
+      "valor": 60
+    },
+    {
+      "descricao": "LAVAGEM CISTERNA",
+      "valor": 300
+    },
+    {
+      "descricao": "CELPE ENERGIA",
+      "valor": 220.95
+    },
+    {
+      "descricao": "TOMADA P/ BOMBA",
+      "valor": 6.5
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "CAMERA INTELBRAS IM1",
+      "valor": 199.9
+    },
+    {
+      "descricao": "MATERIAL MANUTENÇAO BOMBA",
+      "valor": 18
+    },
+    {
+      "descricao": "ÁGUA COMPESA",
+      "valor": 898.56
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "ADULBO PLANTAS",
+      "valor": 60
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA",
+      "valor": 1190
+    },
+    {
+      "descricao": "BAIXA DE TITULO",
+      "valor": 4
+    },
+    {
+      "descricao": "AREIA P/ PLANTAS",
+      "valor": 30
+    },
+    {
+      "descricao": "ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "SÍNDICO",
+      "valor": 800
+    }
+  ],
+  "saldoAnterior": 1039.72,
+  "inadimplencia": 0,
+  "dataInadimplencia": "01/10/2025"
+}

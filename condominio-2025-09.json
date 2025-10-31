@@ -1,0 +1,217 @@
+{
+  "mes": 8,
+  "ano": 2025,
+  "pagamentosNaoCorrespondentes": [
+    {
+      "descricao": "304 Ago/2025",
+      "valor": 298.93
+    }
+  ],
+  "apartamentos": [
+    {
+      "numero": "AP-01",
+      "andar": 0,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-02",
+      "andar": 0,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-03",
+      "andar": 0,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-04",
+      "andar": 0,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-101",
+      "andar": 1,
+      "valor": 0,
+      "situacao": "Isento"
+    },
+    {
+      "numero": "AP-102",
+      "andar": 1,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-103",
+      "andar": 1,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-104",
+      "andar": 1,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-201",
+      "andar": 2,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-202",
+      "andar": 2,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-203",
+      "andar": 2,
+      "valor": 296.58,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-204",
+      "andar": 2,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-301",
+      "andar": 3,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-302",
+      "andar": 3,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-303",
+      "andar": 3,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-304",
+      "andar": 3,
+      "valor": 290,
+      "situacao": ""
+    }
+  ],
+  "despesas": [
+    {
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
+    },
+    {
+      "descricao": "INTEGR.CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 16
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "ENERGIA (CELPE)",
+      "valor": 275.19
+    },
+    {
+      "descricao": "COMPESA",
+      "valor": 988.32
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "SINDICO",
+      "valor": 800
+    },
+    {
+      "descricao": "ATA CARTORIO",
+      "valor": 59.93
+    },
+    {
+      "descricao": "CONDUÇÃO CARTORIO",
+      "valor": 9.54
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "CX DE CABO DE REDE CAT6",
+      "valor": 330
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 24
+    },
+    {
+      "descricao": "TARIFA SERV. COBR. TITULOS",
+      "valor": 25
+    },
+    {
+      "descricao": "CONSERTO DO JATO DÁGUA",
+      "valor": 150
+    },
+    {
+      "descricao": "MATERIAL DE ELETRICA",
+      "valor": 27
+    },
+    {
+      "descricao": "MATERIAL DE ELETRICA",
+      "valor": 16
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "MATERIAL DE LIMPEZA",
+      "valor": 46.99
+    },
+    {
+      "descricao": "MANUTENÇÃO DAS CAMERAS",
+      "valor": 300
+    },
+    {
+      "descricao": "FILTRO 2500 LITROS",
+      "valor": 2000
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "RATOEIRA GAIOLA",
+      "valor": 37.39
+    },
+    {
+      "descricao": "ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    }
+  ],
+  "saldoAnterior": 1964.49,
+  "inadimplencia": 0,
+  "dataInadimplencia": "01/10/2025"
+}

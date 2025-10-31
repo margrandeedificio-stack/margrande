@@ -1,0 +1,225 @@
+{
+  "mes": 7,
+  "ano": 2025,
+  "pagamentosNaoCorrespondentes": [
+    {
+      "descricao": "AP304  7/2025",
+      "valor": 380.02
+    }
+  ],
+  "apartamentos": [
+    {
+      "numero": "AP-01",
+      "andar": 0,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-02",
+      "andar": 0,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-03",
+      "andar": 0,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-04",
+      "andar": 0,
+      "valor": 298.67,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-101",
+      "andar": 1,
+      "valor": 0,
+      "situacao": "Isento"
+    },
+    {
+      "numero": "AP-102",
+      "andar": 1,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-103",
+      "andar": 1,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-104",
+      "andar": 1,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-201",
+      "andar": 2,
+      "valor": 299.62,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-202",
+      "andar": 2,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-203",
+      "andar": 2,
+      "valor": 297.71,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-204",
+      "andar": 2,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-301",
+      "andar": 3,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-302",
+      "andar": 3,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-303",
+      "andar": 3,
+      "valor": 290,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-304",
+      "andar": 3,
+      "valor": 0,
+      "situacao": "Pago Posteriormente"
+    }
+  ],
+  "despesas": [
+    {
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
+    },
+    {
+      "descricao": "INTEGR.CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 8
+    },
+    {
+      "descricao": "GK ARMAZEM DE CONST",
+      "valor": 15.49
+    },
+    {
+      "descricao": "PAGAMENTO CORRIMÃO 1/2",
+      "valor": 425
+    },
+    {
+      "descricao": "LAMPADAS",
+      "valor": 99.6
+    },
+    {
+      "descricao": "MANGUEIRA",
+      "valor": 92.9
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 12
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "CELPE",
+      "valor": 284.86
+    },
+    {
+      "descricao": "COMPESA",
+      "valor": 988.32
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "SINDICO",
+      "valor": 800
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 8
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "PEDREIRO 2/2",
+      "valor": 1300
+    },
+    {
+      "descricao": "FC ATACADISTA",
+      "valor": 199.78
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "BALDE DE LIXO - AREA DE LAZER",
+      "valor": 45
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 12
+    },
+    {
+      "descricao": "PAGAMENTO CORRIMÃO 2/2",
+      "valor": 425
+    },
+    {
+      "descricao": "CONSERTO DA BOMBA",
+      "valor": 50
+    },
+    {
+      "descricao": "DESCARTE DE LIXO",
+      "valor": 30
+    },
+    {
+      "descricao": "ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 8
+    }
+  ],
+  "saldoAnterior": 3359.47,
+  "inadimplencia": 0,
+  "dataInadimplencia": "01/10/2025"
+}

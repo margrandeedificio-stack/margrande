@@ -1,0 +1,185 @@
+{
+  "mes": 4,
+  "ano": 2025,
+  "pagamentosNaoCorrespondentes": [
+    {
+      "descricao": "301 6/25",
+      "valor": 371.16
+    },
+    {
+      "descricao": "203 4/25",
+      "valor": 378.31
+    },
+    {
+      "descricao": "304 4/25",
+      "valor": 379.09
+    }
+  ],
+  "apartamentos": [
+    {
+      "numero": "AP-01",
+      "andar": 0,
+      "valor": 377.06,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-02",
+      "andar": 0,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-03",
+      "andar": 0,
+      "valor": 377.06,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-04",
+      "andar": 0,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-101",
+      "andar": 1,
+      "valor": 81.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-102",
+      "andar": 1,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-103",
+      "andar": 1,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-104",
+      "andar": 1,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-201",
+      "andar": 2,
+      "valor": 377.54,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-202",
+      "andar": 2,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-203",
+      "andar": 2,
+      "valor": 377.06,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-204",
+      "andar": 2,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-301",
+      "andar": 3,
+      "valor": 0,
+      "situacao": "Pago Anteriormente"
+    },
+    {
+      "numero": "AP-302",
+      "andar": 3,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-303",
+      "andar": 3,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-304",
+      "andar": 3,
+      "valor": 0,
+      "situacao": "Pago Posteriormente"
+    }
+  ],
+  "despesas": [
+    {
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
+    },
+    {
+      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "CELPE ENERGIA",
+      "valor": 263.77
+    },
+    {
+      "descricao": "MATERIAL DE LIMPEZA",
+      "valor": 39.95
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "SÍNDICO",
+      "valor": 800
+    },
+    {
+      "descricao": "BALDE E PAST. CLORO",
+      "valor": 35.81
+    },
+    {
+      "descricao": "ÁGUA COMPESA",
+      "valor": 988.32
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA",
+      "valor": 1190
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA / AREA LAZER",
+      "valor": 1258.5
+    },
+    {
+      "descricao": "BATERIA PORTA DE VIDRO",
+      "valor": 21.99
+    },
+    {
+      "descricao": "VENENO P/ BARATAS",
+      "valor": 14
+    },
+    {
+      "descricao": "ESSENCIA CONDOMINIO",
+      "valor": 22
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "ZELADOR",
+      "valor": 300
+    }
+  ],
+  "saldoAnterior": 13182.85,
+  "inadimplencia": 0,
+  "dataInadimplencia": "01/10/2025"
+}

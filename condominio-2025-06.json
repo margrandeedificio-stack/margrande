@@ -1,0 +1,261 @@
+{
+  "mes": 5,
+  "ano": 2025,
+  "pagamentosNaoCorrespondentes": [
+    {
+      "descricao": "02 7/25",
+      "valor": 371.16
+    },
+    {
+      "descricao": "204 7/25",
+      "valor": 371.16
+    },
+    {
+      "descricao": "301 7/25",
+      "valor": 371.16
+    },
+    {
+      "descricao": "304 5/25",
+      "valor": 379.18
+    }
+  ],
+  "apartamentos": [
+    {
+      "numero": "AP-01",
+      "andar": 0,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-02",
+      "andar": 0,
+      "valor": 0,
+      "situacao": "Pago Anteriormente"
+    },
+    {
+      "numero": "AP-03",
+      "andar": 0,
+      "valor": 0,
+      "situacao": "Pago Anteriormente"
+    },
+    {
+      "numero": "AP-04",
+      "andar": 0,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-101",
+      "andar": 1,
+      "valor": 81.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-102",
+      "andar": 1,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-103",
+      "andar": 1,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-104",
+      "andar": 1,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-201",
+      "andar": 2,
+      "valor": 379.18,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-202",
+      "andar": 2,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-203",
+      "andar": 2,
+      "valor": 377.73,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-204",
+      "andar": 2,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-301",
+      "andar": 3,
+      "valor": 0,
+      "situacao": "Pago Anteriormente"
+    },
+    {
+      "numero": "AP-302",
+      "andar": 3,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-303",
+      "andar": 3,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-304",
+      "andar": 3,
+      "valor": 0,
+      "situacao": "Pago Posteriormente"
+    }
+  ],
+  "despesas": [
+    {
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
+    },
+    {
+      "descricao": "REMOÇÃO DE LIXO",
+      "valor": 30
+    },
+    {
+      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "DESENTUPIDOR",
+      "valor": 15
+    },
+    {
+      "descricao": "DESOBSTRUIR TUBULAÇÃO",
+      "valor": 400
+    },
+    {
+      "descricao": "LIMPEZA CAIXA DE GORDURA",
+      "valor": 100
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "REPARO LAJOTA",
+      "valor": 30
+    },
+    {
+      "descricao": "1 LAJOTA",
+      "valor": 8
+    },
+    {
+      "descricao": "COBERTA P/ MAQUISE THOMAZ",
+      "valor": 650
+    },
+    {
+      "descricao": "LIMPEZA ESGOTO PARTE TRAZ.",
+      "valor": 250
+    },
+    {
+      "descricao": "CELPE ENERGIA",
+      "valor": 270.59
+    },
+    {
+      "descricao": "SÍNDICO",
+      "valor": 800
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "MATERIAL DE CONSTRUÇÃO",
+      "valor": 312
+    },
+    {
+      "descricao": "ADIANTAMENTO PEDREIRO",
+      "valor": 200
+    },
+    {
+      "descricao": "TAMPA DE ALUMINIO CISTERNA 1/2",
+      "valor": 250
+    },
+    {
+      "descricao": "ÁGUA COMPESA",
+      "valor": 988.32
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA",
+      "valor": 1350
+    },
+    {
+      "descricao": "MESAS E CADEIRAS",
+      "valor": 2500
+    },
+    {
+      "descricao": "12 LAJOTAS",
+      "valor": 105
+    },
+    {
+      "descricao": "TAMPA DE ALUMINIO CISTERNA 2/2",
+      "valor": 250
+    },
+    {
+      "descricao": "PASTILHA PARA CISTERNA",
+      "valor": 120.42
+    },
+    {
+      "descricao": "PEDREIRO 2/2",
+      "valor": 700
+    },
+    {
+      "descricao": "2 ROTEADORES CAMERAS",
+      "valor": 418.8
+    },
+    {
+      "descricao": "MATERIAL DE CONSTRUÇÃO",
+      "valor": 34
+    },
+    {
+      "descricao": "CAIXA DE PASTILHAS",
+      "valor": 120.42
+    },
+    {
+      "descricao": "TRANSPORTE E MATERIAL DE CONTRUÇÃO",
+      "valor": 12.13
+    },
+    {
+      "descricao": "ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "MATERIAL DE CONSTRUÇÃO",
+      "valor": 5.4
+    },
+    {
+      "descricao": "PAGAMENTO PEDREIRO",
+      "valor": 50
+    },
+    {
+      "descricao": "MANUTENÇÃO CERCA ELETRICA",
+      "valor": 175
+    },
+    {
+      "descricao": "FRETE TAMPA CISTERNA",
+      "valor": 30
+    },
+    {
+      "descricao": "OUTROS",
+      "valor": 599
+    }
+  ],
+  "saldoAnterior": 13937.52,
+  "inadimplencia": 0,
+  "dataInadimplencia": "01/10/2025"
+}

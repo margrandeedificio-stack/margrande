@@ -1,0 +1,261 @@
+{
+  "mes": 6,
+  "ano": 2025,
+  "pagamentosNaoCorrespondentes": [
+    {
+      "descricao": "02 8/25",
+      "valor": 290
+    },
+    {
+      "descricao": "03 8/25",
+      "valor": 290
+    },
+    {
+      "descricao": "03 6/25",
+      "valor": 380.39
+    },
+    {
+      "descricao": "304 6/25",
+      "valor": 379.96
+    }
+  ],
+  "apartamentos": [
+    {
+      "numero": "AP-01",
+      "andar": 0,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-02",
+      "andar": 0,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-03",
+      "andar": 0,
+      "valor": 0,
+      "situacao": "Pago Anteriormente"
+    },
+    {
+      "numero": "AP-04",
+      "andar": 0,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-101",
+      "andar": 1,
+      "valor": 81.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-102",
+      "andar": 1,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-103",
+      "andar": 1,
+      "valor": 378.22,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-104",
+      "andar": 1,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-201",
+      "andar": 2,
+      "valor": 373.04,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-202",
+      "andar": 2,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-203",
+      "andar": 2,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-204",
+      "andar": 2,
+      "valor": 0,
+      "situacao": "Pago Anteriormente"
+    },
+    {
+      "numero": "AP-301",
+      "andar": 3,
+      "valor": 0,
+      "situacao": "Pago Anteriormente"
+    },
+    {
+      "numero": "AP-302",
+      "andar": 3,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-303",
+      "andar": 3,
+      "valor": 371.16,
+      "situacao": ""
+    },
+    {
+      "numero": "AP-304",
+      "andar": 3,
+      "valor": 0,
+      "situacao": "Pago Posteriormente"
+    }
+  ],
+  "despesas": [
+    {
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
+    },
+    {
+      "descricao": "CENTRAL CERCA ELETRICA",
+      "valor": 420.74
+    },
+    {
+      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "MANUTENÇÃO INTERFONE",
+      "valor": 150
+    },
+    {
+      "descricao": "CAIXA DE CERAMICA",
+      "valor": 59.8
+    },
+    {
+      "descricao": "MATERIAL DE CONSTRUÇÃO",
+      "valor": 34
+    },
+    {
+      "descricao": "DEVOLUÇÃO PAG. A MAIS",
+      "valor": 7.06
+    },
+    {
+      "descricao": "PAGAMENTO PEDREIRO",
+      "valor": 50
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA/ AREA DE LAZER",
+      "valor": 1258.5
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "MATERIAL DE ELETRICA",
+      "valor": 81.5
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA/ AREA DE LAZER",
+      "valor": 1258.5
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 12
+    },
+    {
+      "descricao": "CELPE ENERGIA",
+      "valor": 259.97
+    },
+    {
+      "descricao": "MATERIAL DE LIMPEZA",
+      "valor": 34.96
+    },
+    {
+      "descricao": "PAGAMENTO PEDREIRO",
+      "valor": 50
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 12
+    },
+    {
+      "descricao": "ÁGUA COMPESA",
+      "valor": 988.32
+    },
+    {
+      "descricao": "SÍNDICO",
+      "valor": 800
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "GRELHA CHURRASQUEIRA",
+      "valor": 140
+    },
+    {
+      "descricao": "ESSENCIAS",
+      "valor": 22
+    },
+    {
+      "descricao": "LIMPEZA CAIXA DE GORDURA",
+      "valor": 150
+    },
+    {
+      "descricao": "FERROS CHURRASQUEIRA",
+      "valor": 25
+    },
+    {
+      "descricao": "PAGAMENTO PEDREIRO",
+      "valor": 1500
+    },
+    {
+      "descricao": "LUMINARIA AREA DE LAZER",
+      "valor": 51.98
+    },
+    {
+      "descricao": "MATERIAL DE CONSTRUÇÃO",
+      "valor": 34.87
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 8
+    },
+    {
+      "descricao": "BOMBA D'AGUA RESERVA",
+      "valor": 869.25
+    },
+    {
+      "descricao": "ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "LAMPADAS",
+      "valor": 39.8
+    }
+  ],
+  "saldoAnterior": 7797.56,
+  "inadimplencia": 0,
+  "dataInadimplencia": "01/10/2025"
+}
