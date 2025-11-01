@@ -6,82 +6,98 @@
     {
       "numero": "AP-01",
       "andar": 0,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-02",
       "andar": 0,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-03",
       "andar": 0,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-04",
       "andar": 0,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-101",
       "andar": 1,
-      "valor": 900
+      "valor": 0,
+      "situacao": "Isento"
     },
     {
       "numero": "AP-102",
       "andar": 1,
-      "valor": 290
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-103",
       "andar": 1,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-104",
       "andar": 1,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-201",
       "andar": 2,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-202",
       "andar": 2,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-203",
       "andar": 2,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-204",
       "andar": 2,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-301",
       "andar": 3,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-302",
       "andar": 3,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-303",
       "andar": 3,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     },
     {
       "numero": "AP-304",
       "andar": 3,
-      "valor": 0
+      "valor": 0,
+      "situacao": ""
     }
   ],
   "despesas": [],

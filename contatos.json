@@ -1,0 +1,26 @@
+{
+  "grupos": [
+    {
+      "titulo": "Síndico",
+      "contatos": [
+        {
+          "nome": "Marcone Brasil",
+          "whatsapp": "5581985143082"
+        }
+      ]
+    },
+    {
+      "titulo": "Conselho Fiscal",
+      "contatos": [
+        {
+          "nome": "Lucineide Isaura",
+          "whatsapp": "5581987605375"
+        },
+        {
+          "nome": "Danilo Maximo",
+          "whatsapp": "5581996334363"
+        }
+      ]
+    }
+  ]
+}

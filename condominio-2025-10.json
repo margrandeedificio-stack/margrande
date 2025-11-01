@@ -1,7 +1,16 @@
 {
   "mes": 9,
   "ano": 2025,
-  "pagamentosNaoCorrespondentes": [],
+  "pagamentosNaoCorrespondentes": [
+    {
+      "descricao": "104 11/25",
+      "valor": 290
+    },
+    {
+      "descricao": "02 11/25",
+      "valor": 290
+    }
+  ],
   "apartamentos": [
     {
       "numero": "AP-01",
@@ -195,19 +204,27 @@
     },
     {
       "descricao": "ADIANTAMENTO ZELADOR",
-      "valor": 100
+      "valor": 8
     },
     {
       "descricao": "COMPESA ÁGUA",
-      "valor": 988.32
+      "valor": 100
     },
     {
       "descricao": "MANUTENÇÃO INTERFONE",
+      "valor": 988.32
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
       "valor": 150
     },
     {
       "descricao": "TARIFA COM R LIQUIDACAO",
       "valor": 8
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 200
     }
   ],
   "saldoAnterior": 457.59,
