@@ -225,6 +225,10 @@
     {
       "descricao": "ADIANTAMENTO ZELADOR",
       "valor": 200
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
     }
   ],
   "saldoAnterior": 457.59,
