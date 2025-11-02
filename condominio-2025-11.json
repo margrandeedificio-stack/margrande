@@ -100,7 +100,12 @@
       "situacao": ""
     }
   ],
-  "despesas": [],
+  "despesas": [
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 100
+    }
+  ],
   "saldoAnterior": 762.12,
   "inadimplencia": 0,
   "dataInadimplencia": "01/10/2025"
