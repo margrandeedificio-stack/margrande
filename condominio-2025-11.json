@@ -42,7 +42,7 @@
     {
       "numero": "AP-103",
       "andar": 1,
-      "valor": 0,
+      "valor": 290,
       "situacao": ""
     },
     {
@@ -108,14 +108,6 @@
     {
       "descricao": "ALLIANZ SEGUR",
       "valor": 320.55
-    },
-    {
-      "descricao": "CONSERTO APARADOR/GRAMA",
-      "valor": 34.9
-    },
-    {
-      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
-      "valor": 60
     }
   ],
   "saldoAnterior": 762.12,
