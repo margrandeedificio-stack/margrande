@@ -104,6 +104,10 @@
     {
       "descricao": "ADIANTAMENTO ZELADOR",
       "valor": 100
+    },
+    {
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
     }
   ],
   "saldoAnterior": 762.12,
