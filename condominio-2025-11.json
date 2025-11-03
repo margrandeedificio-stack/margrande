@@ -108,6 +108,14 @@
     {
       "descricao": "ALLIANZ SEGUR",
       "valor": 320.55
+    },
+    {
+      "descricao": "CONSERTO APARADOR/GRAMA",
+      "valor": 34.9
+    },
+    {
+      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
+      "valor": 60
     }
   ],
   "saldoAnterior": 762.12,
