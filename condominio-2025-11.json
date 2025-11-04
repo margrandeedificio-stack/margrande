@@ -84,7 +84,7 @@
     {
       "numero": "AP-302",
       "andar": 3,
-      "valor": 0,
+      "valor": 290,
       "situacao": ""
     },
     {
@@ -116,6 +116,10 @@
     {
       "descricao": "CONSERTO APARADOR DE GRAMA",
       "valor": 34.9
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 12
     }
   ],
   "saldoAnterior": 762.12,
