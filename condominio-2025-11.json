@@ -120,6 +120,10 @@
     {
       "descricao": "TARIFA COM R LIQUIDACAO",
       "valor": 12
+    },
+    {
+      "descricao": "CELPE ENERGIA",
+      "valor": 327.56
     }
   ],
   "saldoAnterior": 762.12,
