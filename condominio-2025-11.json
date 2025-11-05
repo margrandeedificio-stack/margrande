@@ -132,9 +132,13 @@
     {
       "descricao": "MATERIAL DE LIMPEZA",
       "valor": 50
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
     }
   ],
-  "saldoAnterior": 762.12,
+  "saldoAnterior": 762.1200000000006,
   "inadimplencia": 0,
   "dataInadimplencia": "01/10/2025",
   "pagOutrosMesesAndar": 0
