@@ -5,12 +5,17 @@
     {
       "descricao": "AP-104 11/2025",
       "valor": 290,
-      "andar": 1
+      "andar": 1,
+      "apNumero": "AP-104",
+      "anoRef": 2025
     },
     {
       "descricao": "AP-02 11/2025",
       "valor": 290,
-      "andar": 0
+      "andar": 0,
+      "apNumero": "AP-02",
+      "mesRef": 10,
+      "anoRef": 2025
     }
   ],
   "apartamentos": [
