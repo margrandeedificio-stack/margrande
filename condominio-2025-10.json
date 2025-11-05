@@ -3,12 +3,14 @@
   "ano": 2025,
   "pagamentosNaoCorrespondentes": [
     {
-      "descricao": "AP-104 11/25",
-      "valor": 290
+      "descricao": "AP-104 11/2025",
+      "valor": 290,
+      "andar": 1
     },
     {
-      "descricao": "AP-02 11/25",
-      "valor": 290
+      "descricao": "AP-02 11/2025",
+      "valor": 290,
+      "andar": 0
     }
   ],
   "apartamentos": [
@@ -233,5 +235,6 @@
   ],
   "saldoAnterior": 457.59,
   "inadimplencia": 0,
-  "dataInadimplencia": "01/10/2025"
+  "dataInadimplencia": "01/10/2025",
+  "pagOutrosMesesAndar": 0
 }
