@@ -13,7 +13,7 @@
       "numero": "AP-02",
       "andar": 0,
       "valor": 0,
-      "situacao": "R$ 290,00"
+      "situacao": ""
     },
     {
       "numero": "AP-03",
@@ -103,5 +103,6 @@
   "despesas": [],
   "saldoAnterior": 0,
   "inadimplencia": 0,
-  "dataInadimplencia": "01/10/2025"
+  "dataInadimplencia": "01/10/2025",
+  "pagOutrosMesesAndar": 0
 }
