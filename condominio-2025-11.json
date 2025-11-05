@@ -13,7 +13,7 @@
       "numero": "AP-02",
       "andar": 0,
       "valor": 0,
-      "situacao": "Pago Anteriormente"
+      "situacao": "Pago Anteriormente R$ 290,00"
     },
     {
       "numero": "AP-03",
@@ -110,7 +110,7 @@
       "valor": 320.55
     },
     {
-      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
+      "descricao": "INTEGRAÃÃO CAPITAL SUBSCRITO",
       "valor": 60
     },
     {
@@ -126,7 +126,7 @@
       "valor": 327.56
     },
     {
-      "descricao": "VASELINA PORTÕES ",
+      "descricao": "VASELINA PORTÃES ",
       "valor": 72.2
     },
     {
