@@ -49,7 +49,7 @@
       "numero": "AP-104",
       "andar": 1,
       "valor": 0,
-      "situacao": "Pago Anteriormente R$ 290,00"
+      "situacao": "R$ 290,00"
     },
     {
       "numero": "AP-201",
@@ -110,7 +110,7 @@
       "valor": 320.55
     },
     {
-      "descricao": "INTEGRAÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂO CAPITAL SUBSCRITO",
+      "descricao": "INTEGRAÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂO CAPITAL SUBSCRITO",
       "valor": 60
     },
     {
@@ -126,7 +126,7 @@
       "valor": 327.56
     },
     {
-      "descricao": "VASELINA PORTÃÂÃÂÃÂÃÂES ",
+      "descricao": "VASELINA PORTÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂES ",
       "valor": 72.2
     },
     {
