@@ -6,6 +6,11 @@
       "dataISO": "2025-11-07",
       "ap": "301",
       "horario": "Dia inteiro"
+    },
+    {
+      "dataISO": "2025-11-19",
+      "ap": "101",
+      "horario": "Manha"
     }
   ]
 }
