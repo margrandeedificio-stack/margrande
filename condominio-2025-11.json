@@ -136,6 +136,10 @@
     {
       "descricao": "CESTA DE RELACIONAMENTO",
       "valor": 56.5
+    },
+    {
+      "descricao": "FILTRO 2/2",
+      "valor": 750
     }
   ],
   "saldoAnterior": 762.1200000000006,
