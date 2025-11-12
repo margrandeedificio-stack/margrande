@@ -6,7 +6,7 @@
     {
       "numero": "AP-01",
       "andar": 0,
-      "valor": 0,
+      "valor": 296.14,
       "situacao": ""
     },
     {
@@ -24,7 +24,7 @@
     {
       "numero": "AP-04",
       "andar": 0,
-      "valor": 295.97,
+      "valor": 0,
       "situacao": ""
     },
     {
@@ -96,7 +96,7 @@
     {
       "numero": "AP-304",
       "andar": 3,
-      "valor": 0,
+      "valor": 290,
       "situacao": ""
     }
   ],
